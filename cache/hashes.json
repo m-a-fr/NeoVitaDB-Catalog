@@ -383,6 +383,11 @@
     "hash": "a6a398ee78df93b5f986ebeaa3cfaa39",
     "hash2": ""
   },
+  "Freakler/vita-PSVident@627551263@2026-10-10T09:31:38Z": {
+    "folder": "",
+    "hash": "8d0963733eef81be3a8a75d0d3acff9b",
+    "hash2": ""
+  },
   "Freakler/vita-uriCaller@2193379@2016-08-23T23:00:32Z": {
     "hash": "86d90317fbfcd6ebefd994ee31ea8844",
     "hash2": ""
@@ -1003,6 +1008,11 @@
     "hash": "92d30b088a64ad743f280e6cf03da1e3",
     "hash2": ""
   },
+  "Rinnegatamante/DaedalusX64-vitaGL@624777418@2026-10-09T11:28:58Z": {
+    "folder": "",
+    "hash": "5ae5ec90de841b10b10687fa3e6af712",
+    "hash2": ""
+  },
   "Rinnegatamante/Death-Road-to-Canada-Lite@73062783@2022-07-29T10:47:37Z": {
     "hash": "7dd9300234bbfc162e505bf9a149824e",
     "hash2": ""
@@ -1013,6 +1023,11 @@
   },
   "Rinnegatamante/Ghostship@436414179@2026-06-02T16:56:06Z": {
     "hash": "0e1a5659b95927b52c2f207c49672320",
+    "hash2": ""
+  },
+  "Rinnegatamante/Ghostship@626308920@2026-10-09T22:09:43Z": {
+    "folder": "",
+    "hash": "0174c10182e7ccc9d68e78d51b0a4ddb",
     "hash2": ""
   },
   "Rinnegatamante/Into-The-Breach-Vita@275700232@2025-07-23T20:12:27Z": {
@@ -15298,9 +15313,19 @@
     "hash": "dab212cc52340cb42bc0b5a82b30210d",
     "hash2": ""
   },
+  "isledecomp/isle-portable@622204734@2026-10-08T15:24:04Z": {
+    "folder": "",
+    "hash": "6b0c2b63a519aa023d0941339baf33c6",
+    "hash2": ""
+  },
   "iwannagooutside/thug-vita-port@616810372@2026-10-06T22:20:01Z": {
     "folder": "",
     "hash": "a08446aa9379aa39b5987888a03203c3",
+    "hash2": ""
+  },
+  "iwannagooutside/thug-vita-port@627946058@2026-10-10T12:40:50Z": {
+    "folder": "",
+    "hash": "b3d861d46e39e8008fff01cdeaa97d4f",
     "hash2": ""
   },
   "jakubito/DoomRPG-RE-vita@155581871@2024-03-08T08:25:44Z": {
@@ -15491,6 +15516,11 @@
     "hash": "81884fa161024460f72150c92ae78e4f",
     "hash2": ""
   },
+  "mauricio-gg/vitaki-vitarps5@627710569@2026-10-10T10:47:55Z": {
+    "folder": "",
+    "hash": "0465c6f0c9e5abf9e6d13f1605988950",
+    "hash2": ""
+  },
   "memory-hunter/garfield-wild-ride-vita@475638713@2026-07-13T15:51:42Z": {
     "hash": "0acf31d8a282df9af79d7c2e2a732ae5",
     "hash2": ""
@@ -15673,6 +15703,11 @@
     "hash2": ""
   },
   "nzp-team/nzportable@619270805@2026-10-07T17:05:16Z": {
+    "folder": "",
+    "hash": "2c332e055cc8be21b0cd309f5aa629c2",
+    "hash2": ""
+  },
+  "nzp-team/nzportable@622072316@2026-10-08T14:31:57Z": {
     "folder": "",
     "hash": "2c332e055cc8be21b0cd309f5aa629c2",
     "hash2": ""
