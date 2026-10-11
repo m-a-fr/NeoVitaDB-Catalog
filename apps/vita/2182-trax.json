@@ -5,19 +5,15 @@
   "category": "utility",
   "platform": "vita",
   "titleid": "TRAX00001",
-
   "repo": "traxpsp/traxpsp",
   "asset": "TRAX.vpk",
   "prerelease": false,
-
   "icon": "2182-trax.png",
-
   "description": "A music player for the PlayStation Vita. A native Vita application, not the PSP version running under emulation, drawn for the Vita screen with touch in the gallery and on the progress bar.\n\nPlays what is already on the card, with no converting and no companion app: MP3, FLAC up to 24-bit/192 kHz, ALAC and AAC in an m4a, WAV, Opus and cue-sheet albums. Cover art comes from the folder.\n\nThirteen visualizations, among them a cassette deck whose reels wind in real time and whose shell is described in JSON, so a tape you actually owned can be rebuilt. Also analogue VU meters, level meters, an orb, a starfield, ribbons, glowing balls, LED bars, spectrum rays, a waveform, a ring, a waterfall, and lyrics from an lrc file beside the track.\n\nA ten-band equalizer, an album gallery as a wall of covers or a shelf you walk along, six play modes including a global shuffle that walks the whole card in under two seconds, a sleep timer, screen-off while playing, and resume where you left off.\n\nReads ux0:/music, a microSD adapter at grw0:/MUSIC, or uma0:/MUSIC. Can also stream from a Subsonic server such as Navidrome, or from Jellyfin.",
-
   "requirements": "A homebrew-enabled Vita (HENkaku). Music goes in ux0:/music, grw0:/MUSIC or uma0:/MUSIC.",
-
   "screenshots": [],
   "trophies": false,
   "ai": false,
-  "ai_assisted": true
+  "ai_assisted": true,
+  "trusted": false
 }
