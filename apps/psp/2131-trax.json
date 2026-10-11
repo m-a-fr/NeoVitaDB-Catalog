@@ -1,0 +1,22 @@
+{
+  "id": 2131,
+  "name": "TRAX",
+  "author": "Trax",
+  "category": "utility",
+  "platform": "psp",
+
+  "repo": "traxpsp/traxpsp",
+  "asset": "TRAX-PSP.zip",
+  "prerelease": false,
+
+  "icon": "2131-trax.png",
+
+  "description": "A music player for the PSP. Plays what is already on the card, with no converting and no companion app: MP3, FLAC up to 24-bit/192 kHz, ALAC and AAC in an m4a, WAV, Opus, and ATRAC3 and ATRAC3plus on the PSP's own Media Engine. Cue-sheet albums open like folders. Cover art comes from the folder.\n\nThirteen visualizations, among them a cassette deck whose reels wind in real time and whose shell is described in JSON, so a tape you actually owned can be rebuilt. Also analogue VU meters, level meters, an orb, a starfield, ribbons, glowing balls, LED bars, spectrum rays, a waveform, a ring, a waterfall, and lyrics from an lrc file beside the track.\n\nA ten-band equalizer, an album gallery, six play modes including a global shuffle that walks the whole card in a couple of seconds, a sleep timer, screen-off while playing, and resume where you left off. The headphone remote works, including with the screen off.\n\nMusic goes in PSP/MUSIC on the card, or MUSIC at the root. Can also stream from a Subsonic server such as Navidrome, or from Jellyfin.\n\nThere is a native PlayStation Vita build as well, listed separately under Vita.",
+
+  "requirements": "Custom firmware. Tested on ARK-4. Music goes in PSP/MUSIC or MUSIC at the root of the card.",
+
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
