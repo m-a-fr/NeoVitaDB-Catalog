@@ -1,0 +1,17 @@
+{
+  "id": 6,
+  "name": "Sky Gamblers: Air Supremacy",
+  "author": "retromodding90",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SGAS00001",
+  "repo": "retromodding90/sky-gamblers-air-supremacy",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0006-sky-gamblers-air-supremacy.png",
+  "description": "PS Vita port of Sky Gamblers: Air Supremacy. The VPK is the loader only. Copy your own Android game files to ux0:data/airsupremacy/.",
+  "requirements": "- Game data required: Android version of Air Supremacy\n- Plugin(s) required: kubridge, libshacccg",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}

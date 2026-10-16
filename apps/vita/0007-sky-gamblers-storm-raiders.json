@@ -1,0 +1,17 @@
+{
+  "id": 7,
+  "name": "Sky Gamblers: Storm Raiders",
+  "author": "retromodding90",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "SGSR00001",
+  "repo": "retromodding90/sky-gamblers-storm-raiders",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0007-sky-gamblers-storm-raiders.png",
+  "description": "PS Vita port of Sky Gamblers: Storm Raiders. The VPK is the loader only. Copy your own Android game files to ux0:data/stormraiders/.",
+  "requirements": "- Game data required: Android version of Storm Raiders\n- Plugin(s) required: kubridge, libshacccg",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
