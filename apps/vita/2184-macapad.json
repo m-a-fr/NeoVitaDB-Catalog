@@ -1,0 +1,19 @@
+{
+  "id": 2184,
+  "name": "Macapad",
+  "author": "AD-Archer",
+  "category": "utility",
+  "platform": "vita",
+  "titleid": "MCPD07317",
+  "repo": "AD-Archer/vita-macapad",
+  "asset": "macapad.vpk",
+  "prerelease": false,
+  "icon": "2184-macapad.png",
+  "description": "Turns your Vita into a macro pad and desk dashboard for your Mac, talking to the free Macapad app over Wi-Fi.\n\nThe first page is a dashboard: the time, the weather where the Mac is, what is playing on the Mac (any app) with artwork, progress and previous / play / next buttons, and the Mac's CPU, memory, battery and disk. It stays filled in while the Mac is away, and can keep the screen on as a desk display.\n\nSwipe for pages of keys: up to 12 pages of 15. A key can run a Mac action (media, windows, browser, editing, or your own), open an app with its icon, open a website with the site's icon, press a keyboard shortcut or run a Shortcut. Make and edit keys right on the Vita, with search, and pick each key's name, icon and color.\n\nPairs by finding the Mac on your network and confirming a code, or by scanning the QR code Macapad shows with the back camera. Works by touch or entirely with the buttons, so it suits a PS TV too.",
+  "requirements": "A homebrew-enabled Vita or PS TV, and Macapad 0.4 or later running on a Mac on the same Wi-Fi (free, from ad-archer.github.io/Macapad).",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true,
+  "trusted": false
+}
