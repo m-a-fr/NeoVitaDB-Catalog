@@ -1,0 +1,17 @@
+{
+  "id": 1993,
+  "name": "Hive Strike",
+  "author": "ZadenZ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "HIVZ00001",
+  "direct_url": "https://zadenz.com/downloads/hive_strike.vpk",
+  "version": "1.00",
+  "icon": "1993-hive-strike.png",
+  "description": "Arena shoot-em-up on Vita. Blast the swarm through 15 stages and three Queen boss fights or chase a high score in Endless mode. Twin, Spread, Shield and Bomb power-ups, per-mode high scores and an original synth soundtrack. No auto fire: tap to shoot, hold for a stream.",
+  "requirements": "Requires libshacccg.suprx: install ShaRKBR33D once (from VitaDB Downloader) before first launch, then install the vpk with VitaShell.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}

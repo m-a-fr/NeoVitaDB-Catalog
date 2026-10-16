@@ -1,0 +1,17 @@
+{
+  "id": 1992,
+  "name": "Vaporwave Rush",
+  "author": "ZadenZ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "VRWZ00001",
+  "direct_url": "https://zadenz.com/downloads/vaporwave_rush.vpk",
+  "version": "1.00",
+  "icon": "1992-vaporwave-rush.png",
+  "description": "Neon endless driving on Vita. Dodge traffic, grab coins and set off bonus runs in Rush and Smash Rush, then spend coins in the Smash Shop on magnets, flight time and a permanent score doubler. Native Vita port of the Save Point arcade game with car customization, camera views, reset progress and the original soundtrack.",
+  "requirements": "Requires libshacccg.suprx: install ShaRKBR33D once (from VitaDB Downloader) before first launch, then install the vpk with VitaShell.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}

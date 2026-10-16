@@ -1,0 +1,17 @@
+{
+  "id": 1994,
+  "name": "Crate Dock",
+  "author": "ZadenZ",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "CRTZ00001",
+  "direct_url": "https://zadenz.com/downloads/crate_dock.vpk",
+  "version": "1.00",
+  "icon": "1994-crate-dock.png",
+  "description": "Warehouse sorting on Vita. Sort the crate stream into the right bins to clear 10 levels and Endless quotas, then solve Rack Jam sliding-rack puzzles: 12 levels with star ratings plus an endless mode. Native Vita port of the Save Point arcade game, with the full scene and touch controls on one screen.",
+  "requirements": "Requires libshacccg.suprx: install ShaRKBR33D once (from VitaDB Downloader) before first launch, then install the vpk with VitaShell.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
