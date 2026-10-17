@@ -1,0 +1,18 @@
+{
+  "id": 2185,
+  "name": "WaddleVita",
+  "author": "HoloFlix",
+  "category": "port",
+  "platform": "vita",
+  "titleid": "WADDLEVIT",
+  "repo": "HoloFlix/WaddleVita",
+  "asset": "WaddleVita.vpk",
+  "prerelease": false,
+  "icon": "2185-waddlevita.png",
+  "description": "Play Club Penguin on your Vita. WaddleVita runs the original Flash game (a modified RuffleVita, built on Ruffle) with Club Penguin controls, and plays it from a Waddle Forever server.\n\nPick a date on the timeline and the island is the island of that day: rooms, music, clothes, parties and minigames from 2005-08-22 to 2011-06-26. Your penguin is the same on every date.\n\nTwo ways to play: from a Waddle Forever server on your PC (the release includes a one-click start script, and the Vita finds it on your Wi-Fi by itself), or completely offline, with the server running on the Vita. Offline mode needs a 1.3 GB pack that you make once on your PC from your own Waddle Forever install (a tool and step-by-step guide are in the release).\n\nThe game files are not included: you bring your own Waddle Forever install.",
+  "requirements": "A homebrew-enabled Vita or PS TV, and Waddle Forever installed on a PC (free, github.com/nhaar/Waddle-Forever) to supply the game files. For offline play, about 1.4 GB free on the memory card.",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false,
+  "ai_assisted": true
+}
