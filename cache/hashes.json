@@ -687,6 +687,11 @@
     "hash": "cad50193bd05726381bea4267d3e556b",
     "hash2": ""
   },
+  "MetalSyntax/Inotia3-vita@652460018@2026-10-18T04:23:54Z": {
+    "folder": "",
+    "hash": "5bb2f5677694aaa96be976ac71a8d5da",
+    "hash2": ""
+  },
   "MetalSyntax/Zenonia2-psvita-port@487900028@2026-07-24T02:31:28Z": {
     "folder": "",
     "hash": "003ce80a0f50a58f038b909227cc34b7",
@@ -1367,6 +1372,11 @@
     "hash": "96553e7c8557309a79154a17f382ca20",
     "hash2": ""
   },
+  "Rocroverss/Gun-Bros-Psvita@651270671@2026-10-17T18:40:00Z": {
+    "folder": "",
+    "hash": "96553e7c8557309a79154a17f382ca20",
+    "hash2": ""
+  },
   "Rocroverss/JumpKingGodot@237959052@2025-03-16T15:39:34Z": {
     "hash": "3333846b67ff62c18a9bb1349884e929",
     "hash2": "a854ca22207f4adb35d22f20faacb49e"
@@ -1573,6 +1583,11 @@
   "TheLostPantheon/openmw@515746335@2026-08-15T14:03:16Z": {
     "folder": "",
     "hash": "b675b0ab3e3dfcca787fe22e61245274",
+    "hash2": ""
+  },
+  "TheLostPantheon/openmw@652433495@2026-10-18T04:11:28Z": {
+    "folder": "",
+    "hash": "03b1e7a83a5abfde22b9411d1bc6fce6",
     "hash2": ""
   },
   "TheMorc/MilkyTrackerVita@113322946@2023-06-18T23:32:54Z": {
@@ -15371,6 +15386,11 @@
   "isledecomp/isle-portable@644997005@2026-10-15T19:55:02Z": {
     "folder": "",
     "hash": "0e71afa61110249bde9c78e9a638161e",
+    "hash2": ""
+  },
+  "isledecomp/isle-portable@652631138@2026-10-18T05:59:04Z": {
+    "folder": "",
+    "hash": "fe8556f43d846fae144bb00e8353eda0",
     "hash2": ""
   },
   "iwannagooutside/thug-vita-port@616810372@2026-10-06T22:20:01Z": {
