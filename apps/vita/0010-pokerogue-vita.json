@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "name": "PokeRogue Vita",
+  "author": "krappaU",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "PKRV00001",
+  "repo": "krappaU/pokerogue-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0010-pokerogue.png",
+  "description": "Unofficial PS Vita client for PokeRogue that runs the live pokerogue.net game, so it updates automatically and supports logging in and cloud saves. It also has an offline mode that downloads the game to the memory card, plus sound, button and touchscreen controls, and save import/export.",
+  "requirements": "- Plugin(s) required: Requires libshacccg.suprx",
+  "screenshots": [],
+  "trophies": false,
+  "ai": true,
+  "trusted": false
+}
